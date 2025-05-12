@@ -1,0 +1,65 @@
+﻿Product_ID,Product_Name,Category_ID,Launch_Date,Price
+P-1,MacBook Pro (Touch Bar),CAT-1,10/1/2016,1499
+P-10,Apple TV 4K,CAT-6,9/1/2017,179
+P-11,iPhone X,CAT-4,11/1/2017,999
+P-12,iPad (6th Gen),CAT-3,3/1/2018,329
+P-13,Apple Watch Series 4,CAT-5,9/1/2018,399
+P-14,iPhone XS,CAT-4,9/1/2018,999
+P-15,iPhone XS Max,CAT-4,9/1/2018,1099
+P-16,iPhone XR,CAT-4,10/1/2018,749
+P-17,"MacBook Air (Retina, 2018)",CAT-1,10/1/2018,1199
+P-18,Mac mini (2018),CAT-7,10/1/2018,799
+P-19,AirPods (2nd Gen),CAT-2,3/1/2019,159
+P-2,AirPods,CAT-2,12/1/2016,159
+P-20,Apple Watch Series 5,CAT-5,9/1/2019,399
+P-21,iPhone 11,CAT-4,9/1/2019,699
+P-22,iPhone 11 Pro,CAT-4,9/1/2019,999
+P-23,iPhone 11 Pro Max,CAT-4,9/1/2019,1099
+P-24,iPad (7th Gen),CAT-3,9/1/2019,329
+P-25,iPad Air (4th Gen),CAT-3,9/1/2020,599
+P-26,Apple One,CAT-8,10/1/2020,179
+P-27,iPhone 12,CAT-4,10/1/2020,799
+P-28,iPhone 12 Pro,CAT-4,10/1/2020,999
+P-29,MacBook Air (M1),CAT-1,11/1/2020,999
+P-3,iPad Pro (10.5-inch),CAT-3,6/1/2017,649
+P-30,"MacBook Pro (M1, 13-inch)",CAT-1,11/1/2020,1299
+P-31,Mac mini (M1),CAT-7,11/1/2020,699
+P-32,HomePod mini,CAT-9,11/1/2020,99
+P-33,iPhone 12 Mini,CAT-4,11/1/2020,699
+P-34,iPhone 12 Pro Max,CAT-4,11/1/2020,1099
+P-35,Apple Fitness+,CAT-8,12/1/2020,120
+P-36,AirPods Max,CAT-2,12/1/2020,549
+P-37,"iPad Pro (M1, 11-inch)",CAT-3,4/1/2021,799
+P-38,"iPad Pro (M1, 12.9-inch)",CAT-3,4/1/2021,1099
+P-39,"iMac (24-inch, M1)",CAT-7,4/1/2021,1299
+P-4,"iPad Pro (12.9-inch, 2nd Gen)",CAT-3,6/1/2017,799
+P-40,AirTag,CAT-10,4/1/2021,29
+P-41,Apple TV 4K,CAT-6,4/1/2021,179
+P-42,iPhone 13 Pro,CAT-4,9/1/2021,999
+P-43,iPhone 13,CAT-4,9/1/2021,699
+P-44,iPhone 13 Mini,CAT-4,9/1/2021,699
+P-45,iPhone 13 Pro Max,CAT-4,9/1/2021,1099
+P-46,iPad (9th Gen),CAT-3,9/1/2021,329
+P-47,AirPods (3rd Gen),CAT-2,10/1/2021,179
+P-48,"MacBook Pro (M1 Pro, 14-inch)",CAT-1,10/1/2021,1999
+P-49,"MacBook Pro (M1 Max, 16-inch)",CAT-1,10/1/2021,2499
+P-5,"MacBook Pro (13-inch, 2017)",CAT-1,6/1/2017,1299
+P-50,Apple Watch Series 7,CAT-5,10/1/2021,399
+P-51,iPhone SE (3rd Gen),CAT-4,3/1/2022,429
+P-52,iPad Air (5th Gen),CAT-3,3/1/2022,599
+P-53,Mac Studio,CAT-7,3/1/2022,1999
+P-54,iPhone 14 Pro,CAT-4,9/1/2022,999
+P-55,iPhone 14,CAT-4,9/1/2022,799
+P-56,Apple Watch Series 8,CAT-5,9/1/2022,399
+P-57,Apple Watch SE (2nd Gen),CAT-5,9/1/2022,249
+P-58,AirPods Pro (2nd Gen),CAT-2,9/1/2022,249
+P-59,iPad (10th Gen),CAT-3,10/1/2022,449
+P-6,MacBook (2017),CAT-1,6/1/2017,1299
+P-60,"iPad Pro (M2, 11-inch)",CAT-3,10/1/2022,799
+P-61,"iPad Pro (M2, 12.9-inch)",CAT-3,10/1/2022,1099
+P-62,iPhone 15,CAT-4,9/1/2023,799
+P-63,iPhone 15 Pro,CAT-4,9/1/2023,999
+P-64,iPhone 15 Pro Max,CAT-4,9/1/2023,1199
+P-7,iPhone 8,CAT-4,9/1/2017,699
+P-8,iPhone 8 Plus,CAT-4,9/1/2017,799
+P-9,Apple Watch Series 3,CAT-5,9/1/2017,329
